@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(211, 208, 208);
+    
+}
+
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+table, th, td
+{
+    border: 1px solid;
+    
+}
+
+.conteiner
+{
+    margin: auto;
+}
+
+div
+{
+    
+        width: 500px;
+        margin: center;
+        border: 3px solid #0b0b0b;
+    
+}
